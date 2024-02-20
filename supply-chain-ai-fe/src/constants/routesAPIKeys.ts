@@ -1,0 +1,5 @@
+export const ROUTES_AUTH = '/auth/login'
+export const ROUTES_REGISTER = '/auth'
+export const ROUTES_PRODUCTS = '/products'
+export const ROUTES_WORKSPACE = '/workspaces'
+export const ROUTES_REPORT = '/reports'
