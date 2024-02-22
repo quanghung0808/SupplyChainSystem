@@ -91,11 +91,9 @@ npm start
 ```
 
 # Documentation
-### Workflow: 
-![SupplyChaion drawio (2)](https://github.com/quanghung0808/SupplyChainSystem/assets/105264684/e82d8d58-b572-4c2f-b90d-298e5755f112)
 
-### How the system works
-![caea8670-2fe0-4ab2-b2b4-4c5e246be272](https://github.com/quanghung0808/SupplyChainSystem/assets/105264684/2c532dc7-5c0e-4a28-ac1d-f43610c42788)
+## How the system works
+![SupplyChaion drawio (4)](https://github.com/quanghung0808/SupplyChainSystem/assets/105264684/3fb43d99-c708-4610-9bc1-ee47c6139585)
 
 ## Contact
 Duong Quang Hung - duongquanghung0122@gmail.com
